@@ -2,3 +2,4 @@ Internet of Things
 - Pengembangan Sistem Hidroponik untuk memudahkan pengelola hidroponik
 - Minimal 5 jam sehari untuk belajar IDE Arduino 
 - Menerapkan IOT dalam segala aspek kehidupan walaupun kecil
+- Kolaborasi dengan banyak expert
